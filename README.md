@@ -2,6 +2,7 @@
 CPE 019-CPE32S3 - Emerging Technologies 2 in CpE
 
 <img src="https://github.com/santiagojlc/CPE-019/assets/157887590/4a4762b7-7f2a-474d-a392-fc94de40f81a" width="200" />
+
 Hi My name is John Loyd C. Santiago
 ======================================
 
@@ -16,8 +17,8 @@ HOBBIES
 * I enjoy playing sports................................. well in the past now although I don't actively play anymore, I still like watching it.
   
 * I'm big pokemon fan I already played all of the games(only mainline games) my favorite pokemon is sceptile and also mewtwo
-![OIP](https://github.com/santiagojlc/CPE-019/assets/157887590/27256977-b7c8-4142-a761-410891d6a656)
 
 
+<img src="![OIP](https://github.com/santiagojlc/CPE-019/assets/157887590/27256977-b7c8-4142-a761-410891d6a656)" width="200" />
 
 
