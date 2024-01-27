@@ -19,6 +19,6 @@ HOBBIES
 * I'm big pokemon fan I already played all of the games(only mainline games) my favorite pokemon is sceptile and also mewtwo
 
 
-<img src="(https://github.com/santiagojlc/CPE-019/assets/157887590/27256977-b7c8-4142-a761-410891d6a656)" width="200" />
+<img src="https://github.com/santiagojlc/CPE-019/assets/157887590/27256977-b7c8-4142-a761-410891d6a656" width="200" />
 
 
