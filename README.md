@@ -10,6 +10,8 @@ I'm 3rd year college course is BSCPE and I'm only 20 years old I like reading so
 * Im From LA but to be more specific I'm from Penafrancia purok 2, Mayamot, Cupang, Bayabas St (tapat nang alma's apartment) Antipolo city (LA is short for Lower Antipolo).
 * I'm learning how to sleep 8 hours a day
 * I enjoy playing sports................................. well in the past now although I don't actively play anymore, I still like watching it.
+* I'm big pokemon fan I already played all of the games(only mainline games) my favorite pokemon is sceptile and also mewtwo
 
+<img src="https://github.com/santiagojlc/CPE-019/assets/157887590/4a4762b7-7f2a-474d-a392-fc94de40f81a" width="200" />
 
-![Photo of me  POGI](https://github.com/santiagojlc/CPE-019/assets/157887590/4a4762b7-7f2a-474d-a392-fc94de40f81a)
+![Photo of me  POGI]()
