@@ -3,10 +3,10 @@ CPE 019-CPE32S3 - Emerging Technologies 2 in CpE
 
 <img src="https://github.com/santiagojlc/CPE-019/assets/157887590/4a4762b7-7f2a-474d-a392-fc94de40f81a" width="200" />
 
-Hi My name is John Loyd C. Santiago
+Hi!, I'm John Loyd C. Santiago.
 ======================================
 
-I'm 3rd year college student my course is BSCPE and I'm only 20 years old you can contact me at [qjlcsantiago@tip.edu.ph](mailto:qjlcsantiago@tip.edu.ph). Im From LA but to be more specific I'm from Peña francia purok 2, Mayamot, Cupang, Bayabas St (tapat nang alma's apartment) Antipolo city (LA is short for Lower Antipolo).
+I'm 3rd year college student of Technological Institute of the Philippines, My course is BSCPE and I'm only 20 years old, You can contact me at [qjlcsantiago@tip.edu.ph](mailto:qjlcsantiago@tip.edu.ph). Im From LA but to be more specific I'm from Peña francia purok 2, Mayamot, Cupang, Bayabas St (tapat nang alma's apartment) Antipolo city (LA is short for Lower Antipolo).
 
 HOBBIES
 * I like watching and reading anime, manga and k-drama
