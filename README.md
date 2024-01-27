@@ -11,7 +11,7 @@ I'm 3rd year college student of Technological Institute of the Philippines, My c
 HOBBIES
 * I like watching and reading anime, manga and k-drama
 * I enjoy playing sports well in the past, Now although I don't actively play anymore, I still like watching it.
-* I'm big fan of the games called pokemon I already played all of the games(only mainline games) my favorite pokemon is sceptile and also mewtwo
+* I'm big fan of the games called pokemon, I already played all of the games(only mainline games) and my favorite pokemon are sceptile and mewtwo
 
 
 
