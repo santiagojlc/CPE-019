@@ -16,7 +16,8 @@ HOBBIES
 * I enjoy playing sports................................. well in the past now although I don't actively play anymore, I still like watching it.
   
 * I'm big pokemon fan I already played all of the games(only mainline games) my favorite pokemon is sceptile and also mewtwo
-https://github.com/santiagojlc/CPE-019/assets/157887590/0263d901-44d8-44bf-87ed-1a0510558ef7
+![OIP](https://github.com/santiagojlc/CPE-019/assets/157887590/27256977-b7c8-4142-a761-410891d6a656)
+
 
 
 
