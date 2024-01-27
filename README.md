@@ -12,3 +12,4 @@ I'm 3rd year college course is BSCPE and I'm only 20 years old I like reading so
 * I enjoy playing sports................................. well in the past now although I don't actively play anymore, I still like watching sports.
 
 
+![Photo of me  POGI](https://github.com/santiagojlc/CPE-019/assets/157887590/4a4762b7-7f2a-474d-a392-fc94de40f81a)
