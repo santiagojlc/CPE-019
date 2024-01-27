@@ -10,7 +10,7 @@ I'm 3rd year college student my course is BSCPE and I'm only 20 years old you ca
 
 HOBBIES
 * I like watching and reading anime, manga and k-drama
-* I enjoy playing sports...................................................................................................................... well in the past now although I don't actively play anymore, I still like watching it.
+* I enjoy playing sports well in the past, Now although I don't actively play anymore, I still like watching it.
 * I'm big fan of the games called pokemon I already played all of the games(only mainline games) my favorite pokemon is sceptile and also mewtwo
 
 
