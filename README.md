@@ -1,7 +1,7 @@
 # CPE-019
 CPE 019-CPE32S3 - Emerging Technologies 2 in CpE
 
-Hi My name is John Loyd C, Santiago
+Hi My name is John Loyd C. Santiago
 ======================================
 
 I'm 3rd year college course is BSCPE and I'm only 20 years old I like reading sometimes and my most favorite thing in the world is foods
